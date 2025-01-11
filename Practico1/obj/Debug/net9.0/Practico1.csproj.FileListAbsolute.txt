@@ -1,0 +1,14 @@
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\bin\Debug\net9.0\Practico1.exe
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\bin\Debug\net9.0\Practico1.deps.json
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\bin\Debug\net9.0\Practico1.runtimeconfig.json
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\bin\Debug\net9.0\Practico1.dll
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\bin\Debug\net9.0\Practico1.pdb
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.AssemblyInfo.cs
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.dll
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\refint\Practico1.dll
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.pdb
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\Practico1.genruntimeconfig.cache
+C:\Users\user\Documents\PROYECTOS DESAROLLO DE APLIACIONES WEB\DATOS ESTRUCTURADOS\Practico1\obj\Debug\net9.0\ref\Practico1.dll
