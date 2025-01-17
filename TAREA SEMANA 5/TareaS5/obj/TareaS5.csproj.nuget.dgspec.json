@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj": {}
+    "c:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj": {
+    "c:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj",
         "projectName": "TareaS5",
-        "projectPath": "C:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\TareaS5.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\DATOS ESTRUCTURADOS\\TAREA SEMANA 5\\TareaS5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
