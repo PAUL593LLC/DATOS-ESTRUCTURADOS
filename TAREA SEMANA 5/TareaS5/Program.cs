@@ -51,7 +51,7 @@ namespace GestionCurso
 
             // Esperar entrada del usuario antes de cerrar
             Console.WriteLine("\nPresiona cualquier tecla para salir...");
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
